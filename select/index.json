@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アルエ(BUMP OF CHICKEN TOUR ホームシック衛星2024 at ARIAKE ARENA - DAY2 -)",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-13T10:27:14.796987Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルエ(BUMP OF CHICKEN TOUR ホームシック衛星2024 at ARIAKE ARENA - DAY2 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_アルエ(BUMP_OF_CHICKEN_TOUR_ホームシック衛星2024_at_ARIAKE_ARENA_-_DAY2_-)_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
